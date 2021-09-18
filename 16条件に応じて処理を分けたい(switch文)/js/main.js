@@ -11,7 +11,7 @@
             alert('みかんです');
             break;
         default:
-            alert('その他です');
+            alert('その他です!');
             break;
     }
 
